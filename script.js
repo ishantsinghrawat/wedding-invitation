@@ -38,7 +38,7 @@ if (guest) {
     `would be honoured to celebrate the beginning of our forever with you, ${guest}.`;
 
   // Give the page title a personalized touch.
-  document.title = `A & I | Invitation for ${guest}`;
+  document.title = `Ayushi & Ishant | Invitation for ${guest}`;
 } else {
   guestNameEl.textContent = "Our Family & Friends";
   heroMessage.textContent =
