@@ -3,7 +3,7 @@
 // ==============================
 
 // Change the wedding date here.
-const weddingDate = new Date("2026-12-12T16:00:00");
+const weddingDate = new Date("2027-01-31T16:00:00");
 
 // Paste your real RSVP form link here.
 // Example: "https://docs.google.com/forms/d/e/FORM_ID/viewform"
