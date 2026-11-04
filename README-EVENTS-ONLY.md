@@ -1,0 +1,1 @@
+Events-focused edition: Removed Our Story, timeline, quote, and gallery sections. Kept animated silhouette hero, countdown, wedding/reception cards, venue, RSVP and guest personalization. RSVP URL remains a placeholder and must be configured in script.js.

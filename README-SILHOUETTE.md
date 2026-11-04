@@ -1,0 +1,1 @@
+Animated silhouette hero: inline SVG in index.html and responsive CSS animations in styles.css. No photographs, dependencies, or JS needed. Supports prefers-reduced-motion. Upload files to the root of your GitHub Pages repository.
